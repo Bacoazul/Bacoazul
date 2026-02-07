@@ -1,37 +1,23 @@
 ### Hola, soy Bacoazul 👋
-> 🤖 AI Engineer & Autonomous Agent Architect
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=false&vCenter=false&width=435&lines=Building+Argos+Core;Dockerizing+AI+Agents;Exploring+AGI)](https://git.io/typing-svg)
+> 🤖 **AI Engineer & Autonomous Agent Architect**
+
+Actualmente construyendo **Argos Core**: Un sistema operativo de Agentes de IA soberano, local y dockerizado.
 
 ---
 
-<div align="center">
+### 🛠️ Tech Stack & Herramientas
 
-  <img src="https://streak-stats.demolab.com?user=Bacoazul&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
+* **Lenguajes:** Python, Dockerfile
+* **IA/ML:** LangChain, LangGraph, Ollama
+* **Infraestructura:** Docker, Git, Linux
+* **Enfoque:** Agentes Autónomos, RAG, Local LLMs
 
-  <br/>
-  <br/>
+---
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bacoazul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+### 🚀 Proyectos Destacados
 
-  <br/>
-  <br/>
+* **[Argos_Core](https://github.com/Bacoazul/Argos_Core)**: Agente autónomo con memoria persistente y navegación web (Fase 7).
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bacoazul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-
-</div>
-
-<!--
-**Bacoazul/Bacoazul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align="center">Construyendo el futuro de la IA local.</p>
