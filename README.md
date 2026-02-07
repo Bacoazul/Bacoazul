@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hola, soy Bacoazul 👋
+> 🤖 AI Engineer & Autonomous Agent Architect
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=false&vCenter=false&width=435&lines=Building+Argos+Core;Dockerizing+AI+Agents;Exploring+AGI)](https://git.io/typing-svg)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bacoazul&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=ddd&icon_color=79ff97" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bacoazul&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=ddd" height="150" alt="languages" />
+</div>
 
 <!--
 **Bacoazul/Bacoazul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
