@@ -6,15 +6,19 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Bacoazul&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
-  </a>
-</div>
 
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Bacoazul&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
+
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bacoazul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bacoazul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+
 </div>
 
 <!--
