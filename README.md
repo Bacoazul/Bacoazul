@@ -6,8 +6,13 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-se.vercel.app/api?username=Bacoazul&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=ddd&icon_color=79ff97" height="150" alt="stats" />
-  <img src="https://github-readme-stats-se.vercel.app/api/top-langs/?username=Bacoazul&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=ddd" height="150" alt="languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Bacoazul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bacoazul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
 </div>
 
 <!--
